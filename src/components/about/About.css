@@ -1,0 +1,30 @@
+.about{
+    margin-left: 5%;
+    height:0vh;
+    width: 50vh;
+    background-color: #fffdfd;
+    
+}
+
+.title{
+    font-weight: 400;
+    font-size: 28px;
+    color: #fff;
+    text-align: center;
+    background-color: rgb(172, 107, 204);
+    padding: 5px;
+    border-radius: 30%;
+}
+
+.about-me{
+    padding: 10px;
+    text-align: justify;
+}
+
+.experiencia{
+    padding: 10px;
+}
+
+p{
+    padding: 10px;
+}

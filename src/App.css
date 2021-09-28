@@ -1,0 +1,9 @@
+.contenedor{
+  margin: 0 auto;
+  width:800px;
+  display: flexbox;
+  grid-template-columns: repeat(2,1fr);
+  border-style: double;
+  border-color: rgb(167, 95, 202);
+  padding: 0%;
+}
