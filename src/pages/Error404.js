@@ -1,6 +1,12 @@
+import { Link } from "react-router-dom";
 function Error404(){
     return(
-        <h1>Esta página no carga</h1>
+        <>
+        <center>
+        <h1>Página no existente</h1>
+        <a className="bottom"><Link to="/">Volver</Link></a>
+        </center>
+        </>
     );
 }
 
